@@ -1,1 +1,1 @@
-# portfolio.quedingr.rocks
+# quedingr.rocks
